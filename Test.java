@@ -1,5 +1,5 @@
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Test file is working");
+        System.out.println("Test file is working build test");
     }
 }
